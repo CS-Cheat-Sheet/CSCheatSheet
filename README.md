@@ -4,10 +4,15 @@ Original App Design Project - README Template
 # CS Cheat Sheet
 
 ## Table of Contents
-1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
-2. [Schema](#Schema)
+1. [Presentation](#Presentation)
+2. [Overview](#Overview)
+3. [Product Spec](#Product-Spec)
+4. [Wireframes](#Wireframes)
+5. [Schema](#Schema)
+
+## Presentation and Walkthrough
+
+https://docs.google.com/presentation/d/1T94uW5dp7An_RZYe9N96uGoSljvA-zY1_i1XmKCo0n0/edit?usp=sharing
 
 ## Overview
 ### Description
